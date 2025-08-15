@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+
+# Django
+*.log
+staticfiles/
+media/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# AI generated temp files
+ai_outputs/
+ai_inputs/
